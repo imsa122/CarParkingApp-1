@@ -14,6 +14,4 @@ Cashless Payment System Supports multiple secure payment methods: Credit/debit c
 
 Eco-Friendly Features By helping users find parking quickly, the app reduces unnecessary driving and fuel consumption, contributing to a greener environment. Supports the future of mobility by integrating EV charging station availability.
 
-The Team Behind the Innovation This app is the result of the combined efforts and technical expertise of a talented team of students from the University of Jeddah:
 
-Hashem Aljadani: Project Lead and Backend Developer. Majed Almutairy: Frontend Specialist. Fahad Alamuodi: Database Architect. Saad Almutairy: Security Analyst and System Integrator. Muhannad Althagafi: Quality Assurance and Testing Expert. As students from the University of Jeddah, this project reflects their dedication to leveraging cutting-edge technology and innovative problem-solving to enhance daily life and urban mobility.
